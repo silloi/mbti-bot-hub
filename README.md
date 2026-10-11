@@ -30,3 +30,7 @@ Grok Bot で動くマルチボットチームです。ユーザーが自分のMB
 
 ## 実例
 このハッカソンの提出物づくりをチームで実行した記録：[`docs/submission-draft.md`](docs/submission-draft.md)
+
+## Botテンプレート
+
+https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd （追加するとMBTIを聞かれ、相性チームが自動で作成されます）
